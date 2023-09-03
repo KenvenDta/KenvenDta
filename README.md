@@ -2,3 +2,5 @@
 <hr width="860px">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hellow+World;Let+Me+Learn)](https://git.io/typing-svg)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KenvenDta)](https://github.com/anuraghazra/github-readme-stats)
